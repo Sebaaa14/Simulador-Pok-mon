@@ -2,6 +2,8 @@ Formula de daño:
 
 Daño (HP) = {([{(2 * Nv. / 7) * Ataque  * Poder / Defensa} / 50] + 2) * STAB * Efec.Tipo#1 * Efec.Tipo#2 * Rnd / 100} * CH
 
+-Nv: Nivel, en este caso todos los pokémons se encuentran al máximo, el cual es 100.
+
 -Ataque: Si el movimiento es Físico, se tomara el ataque, Si es Especial, se tomara el ataque especial del pokémon.
 
 -Poder: Daño que hace el movimiento en si.
