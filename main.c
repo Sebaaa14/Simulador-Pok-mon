@@ -149,7 +149,7 @@ printf("▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
     if (totalEfectividad==19) break;
   } 
   
-  //Aqui se almacena todo lo relacionado a los movimientos
+  //Aqui se almacena todo lo relacionado a los movimientos//
   Map * mapaMovimientos =createMap(is_equal_string);
   FILE *movcsv = fopen("movimientos.csv","r");
   char datosmov[1024]; int totalMovs = 0;
