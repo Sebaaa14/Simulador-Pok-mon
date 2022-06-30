@@ -1,3 +1,4 @@
+"Nombre","Tipo1","Tipo2","Vida","Ataque","Defensa","Ataque especial","Def especial","Vel","Legendario","Mov1","Mov2","Mov3","Mov4"
 "Archeops","Roca","Volador","354","379","229","323","229","319","0","Golpe","Respiro","Terremoto","Terremoto"
 "Aerodactyl","Roca","Volador","364","309","229","219","249","359","0","Golpe","Respiro","Terremoto","Terremoto"
 "Alakazam","Psiquico","","314","199","189","369","289","339","0","Onda Trueno","Recuperacion","Psiquico","Psiquico"
